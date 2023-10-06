@@ -32,7 +32,6 @@ ehthumbs.db
 Thumbs.db
 
 # Vuforia generated
-/VuforiaAssets/
 
 # User-specific files
 *.suo
