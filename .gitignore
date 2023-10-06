@@ -1,0 +1,49 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serData/
+/[Pp]ackages/
+/[Ii]mport/
+/[Pp]rojectSettings/
+
+# Visual Studio files
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# MonoDevelop generated
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Vuforia generated
+/VuforiaAssets/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Build artifacts
+/[Bb]uild/
+/[Bb]in/
+/[Dd]ebug/
+/[Rr]elease/
+/[Ll]og/
+/[Tt]est[Rr]esult[Cc]ache/
+/[Tt]est[Rr]esults/
